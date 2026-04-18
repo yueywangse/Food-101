@@ -1,0 +1,16 @@
+# Dataset folders
+food-101/
+food101_transformed_test_variants/
+**/food-101/
+
+# Large dataset archives
+*.zip
+*.tar
+*.tar.gz
+
+# Jupyter noise
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+**/.DS_Store
