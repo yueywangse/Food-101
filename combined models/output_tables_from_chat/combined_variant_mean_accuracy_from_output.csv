@@ -1,0 +1,16 @@
+model,variant,accuracy
+Enet,downsampled,0.24385
+Enet,blur_medium,0.510543
+Enet,blur_little,0.704919
+Enet,noise_rotation,0.748998
+Enet,masked,0.791881
+Rnet,downsampled,0.219505
+Rnet,blur_medium,0.419096
+Rnet,blur_little,0.598964
+Rnet,noise_rotation,0.615683
+Rnet,masked,0.639736
+VIT,downsampled,0.368246
+VIT,blur_medium,0.630519
+VIT,blur_little,0.735129
+VIT,noise_rotation,0.763232
+VIT,masked,0.773703

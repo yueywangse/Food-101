@@ -1,0 +1,6 @@
+variant,accuracy
+downsampled,0.219505
+blur_medium,0.419096
+blur_little,0.598964
+noise_rotation,0.615683
+masked,0.639736
